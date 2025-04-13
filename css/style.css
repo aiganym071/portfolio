@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+h2 {
+  color: blue;
+}
+.card {
+  border-radius: 15px;
+  background-color:whitesmoke;
+}
+
+footer a {
+  color:lightblue;
+  text-decoration: none;
+  font-weight: bold;
+}
